@@ -24,7 +24,8 @@ Uttarakhand, often referred to as the "Land of the Gods," is a paradise nestled 
 
 1. **Clone the Repository**: 
    ```bash
-   git clonehttps://github.com/NegiAdarsh/Uttarakhand-tour.git
+      git clone https://github.com/ManoharSingh1311/Uttarakhand-Tour-and-Travel.git
+
 
 2. **Open index.html in your browser**
 3. **Enjoy Newsletter, blogging and payment feature**
